@@ -1,6 +1,6 @@
 //Basic calculation
 
-//Additions
+//Additions - General Basic calculations updated.
 
 let sum = 5+3
 let difference = 10-4;
