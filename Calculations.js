@@ -3,6 +3,7 @@
 //Additions - General Basic calculations updated.
 //One more update required to Sync to git
 // second Sync to the file
+//Thirs Commit to Github
 
 let sum = 5+3
 let difference = 10-4;
