@@ -5,17 +5,20 @@
 // second Sync to the file
 //Thirs Commit to Github
 
-let sum = 5+3
-let difference = 10-4;
-let multipication = 6 * 7;
-let division = 32 / 3;
-let remain = 10 % 3;
+// let sum = 5+3
+// let difference = 10-4;
+// let multipication = 6 * 7;
+// let division = 32 / 3;
+// let remain = 10 % 3;
+// let age = 60;
+// let dialog = (100 - age) * 0.5
 
-console.log(sum);
-console.log(difference);
-console.log(multipication);
-console.log(division);
-console.log(remain);
+// console.log(sum);
+// console.log(difference);
+// console.log(multipication);
+// console.log(division);
+// console.log(remain);
+// console.log(dialog)
 
 
 /*Getting a link to Github-Command used to get this working
@@ -50,5 +53,10 @@ console.log(remain);
         COMMAND: git push
 */
 
+let playerScore = 10
+if (playerScore >=100){
+    console.log("YouWin!");
+}else
+    console.log("Try Again!");
 
 
